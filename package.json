@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-android-update",
+  "version": "2.0.2",
+  "description": "扫一扫",
+  "cordova": {
+    "id": "cordova-plugin-android-update",
+    "platforms": [
+      "android"
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "郑亮",
+  "license": "ISC"
+}
